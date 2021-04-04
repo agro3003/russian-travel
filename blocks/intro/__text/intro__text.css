@@ -8,7 +8,7 @@
   color: #FFFFFF;
 }
 
-@media(max-width : 320px) {
+@media(max-width: 320px) {
   .intro__text {
     font-size: 16px;
     line-height: 163%;
