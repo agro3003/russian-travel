@@ -1,0 +1,9 @@
+.body__header {
+  max-width: 1184px;
+  margin: 24px auto 0;
+}
+@media(max-width : 320px) {
+  .body__header {
+    margin: 16px auto 0;
+  }
+}
