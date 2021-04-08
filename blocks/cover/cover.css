@@ -1,19 +1,20 @@
 .cover {
+  font-family: 'Inter', Arial, sans-serif;
   max-width: 1184px;
-  margin: 92px auto 0;
+  padding: 92px 48px 0;
   }
   @media(max-width: 1024px) {
-    .cover__title {
-      margin: 92px auto 0;
+    .cover {
+      padding: 92px 0 0;
     }
   }
   @media(max-width: 768px) {
-    .cover__title {
-      margin: 90px auto 0;
+    .cover {
+      padding: 90px 0 0;
     }
   }
   @media(max-width: 320px) {
-    .cover__title {
-      margin: 66px auto 0;
+    .cover {
+      padding: 66px 0 0;
     }
   }
