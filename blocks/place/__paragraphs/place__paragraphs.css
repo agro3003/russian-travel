@@ -1,8 +1,3 @@
-.place__paragraphs {
-  display: grid;
-  grid-template-columns: 1fr;
-  row-gap: 26px;
-}
 @media(max-width: 600px) {
   .place__paragraphs {
     margin: 0 16px;
